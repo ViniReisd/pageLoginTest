@@ -1,0 +1,25 @@
+.menu-topo {
+    text-align: right;
+    padding:10px 5px 0 0;
+}
+.button-cad {
+    padding: 5px;
+    border: 0;
+
+    cursor: pointer;
+
+    background: #50b9cc;
+
+    border-radius: 5px;
+    color: white;
+}
+.centro {
+    margin-bottom: 260px;
+}
+.centro img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+

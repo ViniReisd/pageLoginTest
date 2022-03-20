@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(116, 197, 252, 0.288);
+}
+
+.menu-topo {
+    text-align: right;
+    padding:10px 5px 0 0;
+}
+
+footer {
+    position:absolute;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 10px;
+}
